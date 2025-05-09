@@ -1,0 +1,14 @@
+C:\Users\river\source\repos\Task-Os\bin\Debug\net8.0\Task-Os.exe
+C:\Users\river\source\repos\Task-Os\bin\Debug\net8.0\Task-Os.deps.json
+C:\Users\river\source\repos\Task-Os\bin\Debug\net8.0\Task-Os.runtimeconfig.json
+C:\Users\river\source\repos\Task-Os\bin\Debug\net8.0\Task-Os.dll
+C:\Users\river\source\repos\Task-Os\bin\Debug\net8.0\Task-Os.pdb
+C:\Users\river\source\repos\Task-Os\obj\Debug\net8.0\Task-Os.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\river\source\repos\Task-Os\obj\Debug\net8.0\Task-Os.AssemblyInfoInputs.cache
+C:\Users\river\source\repos\Task-Os\obj\Debug\net8.0\Task-Os.AssemblyInfo.cs
+C:\Users\river\source\repos\Task-Os\obj\Debug\net8.0\Task-Os.csproj.CoreCompileInputs.cache
+C:\Users\river\source\repos\Task-Os\obj\Debug\net8.0\Task-Os.dll
+C:\Users\river\source\repos\Task-Os\obj\Debug\net8.0\refint\Task-Os.dll
+C:\Users\river\source\repos\Task-Os\obj\Debug\net8.0\Task-Os.pdb
+C:\Users\river\source\repos\Task-Os\obj\Debug\net8.0\Task-Os.genruntimeconfig.cache
+C:\Users\river\source\repos\Task-Os\obj\Debug\net8.0\ref\Task-Os.dll
